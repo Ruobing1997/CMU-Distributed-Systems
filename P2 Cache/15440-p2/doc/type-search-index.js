@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"FileHandling.Errors"},{"p":"<Unnamed>","l":"FileHandling"},{"p":"<Unnamed>","l":"FileHandlingMaking"},{"p":"<Unnamed>","l":"FileHandling.LseekOption"},{"p":"<Unnamed>","l":"FileHandling.OpenOption"},{"p":"<Unnamed>","l":"RPCreceiver"}];updateSearchResults();

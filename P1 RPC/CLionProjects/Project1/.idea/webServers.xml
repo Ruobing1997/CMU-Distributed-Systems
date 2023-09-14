@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ebe5698e-8781-4f03-807c-f65b3c9540a4" name="CMU15640">
+        <fileTransfer rootFolder="/afs/andrew.cmu.edu/usr14/ruobing2" accessType="SFTP" host="linux.andrew.cmu.edu" port="22" sshConfigId="fb80f764-2a03-4cab-9e81-cbfd77481c16" sshConfig="ruobing2@linux.andrew.cmu.edu:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

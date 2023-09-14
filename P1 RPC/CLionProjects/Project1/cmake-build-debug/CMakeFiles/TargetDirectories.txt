@@ -1,0 +1,3 @@
+/Users/ruobing/Desktop/23Spring/15640/23Spring/CLionProjects/Project1/cmake-build-debug/CMakeFiles/Project1.dir
+/Users/ruobing/Desktop/23Spring/15640/23Spring/CLionProjects/Project1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ruobing/Desktop/23Spring/15640/23Spring/CLionProjects/Project1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
